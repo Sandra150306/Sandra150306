@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Sandra150306/Sandra150306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# HORARIO
+
+| Hora            | **Lunes** | **Martes** | **Miercoles** | **Jueves** | **Viernes** |
+|-----------------|-----------|------------|---------------|------------|-------------|
+| 12:00 - 2:00 Pm | Flamenco  |            |               |            | Tenis       |
+| 2:00 - 3:00 Pm  |           | Folklor    | Folklor       |            |             |
+| 3:00 - 5:00 Pm  |           |            |               | Tenis      |             |
