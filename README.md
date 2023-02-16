@@ -19,8 +19,13 @@ Me gusta dibujar en pixel en mi computadora<br>Amo el chipotle y La Coca-cola<br
 
 # HORARIO
 
-| Hora            | **Lunes** | **Martes** | **Miercoles** | **Jueves** | **Viernes** |
-|-----------------|-----------|------------|---------------|------------|-------------|
-| 12:00 - 2:00 Pm | Flamenco  |            |               |            | Tenis       |
-| 2:00 - 3:00 Pm  |           | Folklor    | Folklor       |            |             |
-| 3:00 - 5:00 Pm  |           |            |               | Tenis      |             |
+| Hora                 | Lunes                 | Martes                           | Miércoles                         | Jueves                           | Viernes                          |
+|----------------------|-----------------------|----------------------------------|-----------------------------------|----------------------------------|----------------------------------|
+| 7:00 - 7:50          | Comunidades Virtuales | Mantenimiento y redes de cómputo | Mantenimiento y redes de cómputo  | Física II                        | Mantenimiento y redes de cómputo |
+| 7:55 - 8:45          | Física II             | Biología II                      | Biología II                       | Deportes IV                      | Biología II                      |
+| 8:50 - 9:40          | Matemáticas IV        | Físico II                        | Literatura II                     | Matemáticas IV                   | Matemáticas IV                   |
+| 9:45 - 10:35         | Literatura II         | Matemáticas IV                   | Física II                         | Mantenimiento y redes de cómputo | Física II                        |
+| Receso 10:35 - 11:05 |                       |                                  |                                   |                                  |                                  |
+| 11:05 - 11:55        | Inglés IV             | Comunidades virtuales            | Orientación Educativa IV          | Inglés IV                        | Historia de México II            |
+| 12:00 - 12:50        | Historia de México II | Comunidades virtuales            | Matemáticas IV                    | Historia de México II            | Literatura II                    |
+| 12:55 - 13:45        |                       |                                  |                                   | Biología II                      | Inglés IV                        |
